@@ -8,13 +8,13 @@
   *  have a good time
   *  be careful on the trail
     
-  ***HOWEVER..***  
+***HOWEVER..***  
     
-  .. skiing can be very dangerous ~ perilous even.  
+.. skiing can be very dangerous ~ perilous even.  
         
-  ## *SO LET'S GO DANCING INSTEAD*
-    
-  ![Screenshot of Title Screen](https://cdn.discordapp.com/attachments/985802291548405781/1186875222880702464/Screenshot_20231219_213417.png?ex=6594d6b0&is=658261b0&hm=0d3d0cfd92241ff40245cce9a95debf3aca589521225eadbac2f0895d35bee32&)  
+## *SO LET'S GO DANCING INSTEAD*
+![skiing](https://github.com/O-01/skiing-is-dangerous/assets/122712385/7005680c-ad72-4905-bf0c-8071e12989fc)
+  
   #    
   ### CONTROLS / KEYBINDS :
   - **START** : SPACE / ENTER
